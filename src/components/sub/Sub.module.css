@@ -1,6 +1,7 @@
 .h1 {
     width: 25%;
     text-align: center;
+    font-size: 20px;
 }
 
 .sub {
@@ -10,7 +11,9 @@
     justify-content: center;
     flex-wrap: wrap;
     gap: 15rem;
-    background-color: #F3F3F3;
+    background-color: #323232;
+    color: white;
+    font-family: 'Pokemon Classic', sans-serif;
 }
 
 @media only screen and (max-width: 768px) {

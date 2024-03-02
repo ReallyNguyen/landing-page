@@ -1,11 +1,10 @@
 .newsletter {
-
     background-color: #D6EFFF;
     padding: 40px 0;
     text-align: center;
     margin: 5rem 25rem;
     border-radius: 20px;
-
+    font-family: 'Pokemon Classic', sans-serif;
 }
 
 .h2 {

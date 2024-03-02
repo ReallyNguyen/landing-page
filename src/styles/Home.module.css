@@ -4,7 +4,9 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-color: #F3F3F3;
+  background-color: #323232;
+  color: white;
+  font-family: 'Pokemon Classic', sans-serif;
 }
 
 .cardContainer {
@@ -15,4 +17,5 @@
   flex-wrap: wrap;
   gap: 5rem;
   margin: 3rem 0;
+  font-family: 'Pokemon Classic', sans-serif;
 }

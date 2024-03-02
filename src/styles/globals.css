@@ -1,3 +1,9 @@
 body {
     margin: 0px;
+    background-color: #F4F4ED;
+}
+
+@font-face {
+    font-family: 'Pokemon Classic';
+    src: url('../../public/Pokemon-Classic.ttf') format('truetype');
 }
