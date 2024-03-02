@@ -26,14 +26,14 @@ export default function App() {
             description="Win Pokemon TCG cards and build your collection!"
             button="START COLLECTING"
             >
-            <Spline scene="https://prod.spline.design/jqd-Q-8Niae8a9BN/scene.splinecode" />
+             <Spline scene="https://prod.spline.design/lUrSIMu6wGFLZSSN/scene.splinecode" />
           </Card>
           <Card
             header="Battle 1v1"
             description="Challenge others and test your strength!"
             button="JOIN BATTLE"
             >
-             <Spline scene="https://prod.spline.design/5Oq2sDZVeZcFmUkI/scene.splinecode" />
+             <Spline scene="https://prod.spline.design/dYKF3Jmo0-vfzkzv/scene.splinecode" />
           </Card>  
         </div>
         <Sub />
