@@ -18,10 +18,11 @@
 @media only screen and (max-width: 768px) {
     .h1 {
         width: 100%;
-        font-size: 27px;
+        font-size: 10px;
+        text-align: center;
     }
 
     .sub {
-        gap: 5rem;
+        gap: 2rem;
     }
 }
